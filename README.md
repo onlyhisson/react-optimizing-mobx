@@ -1,7 +1,7 @@
-# `react-optimizing-mobx`
+# react-optimizing-mobx
 
 ## 프로젝트 생성
-$ npx create-react-app mobx-with-react<br>
+$ `npx create-react-app mobx-with-react`<br>
 $ cd mobx-with-react<br>
 
 $ yarn eject<br>
@@ -17,9 +17,9 @@ $ vi package.json <br>
 
 "babel": {<br>
 "presets": [<br>
-      		"react-app",
-      		"mobx"
-    ]
+      		"react-app",<br>
+      		"mobx"<br>
+    ]<br>
 }<br>
 
 ## 개발자 도구 설치(선택)

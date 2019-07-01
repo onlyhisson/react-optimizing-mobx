@@ -22,8 +22,8 @@ $ `vi package.json` <br>
 >"presets": [<br>
 >>>      		"react-app",<br>
 >>>      		"mobx"<br>
->>    ]<br>
->}<br>
+>    ]<br>
+}<br>
 
 ### 개발자 도구 설치(선택)
 $ `yarn add mobx-react-devtools`

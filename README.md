@@ -20,9 +20,9 @@ $ `vi package.json` <br>
 
 >"babel": {<br>
 >"presets": [<br>
->>      		"react-app",<br>
->>      		"mobx"<br>
->    ]<br>
+>>>      		"react-app",<br>
+>>>      		"mobx"<br>
+>>    ]<br>
 >}<br>
 
 ### 개발자 도구 설치(선택)

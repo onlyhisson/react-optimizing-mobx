@@ -18,11 +18,11 @@ $ `yarn add mobx mobx-react`<br>
 ### babel 부분 수정
 $ `vi package.json` <br>
 
->"babel": {<br>
->"presets": [<br>
->>>      		"react-app",<br>
->>>      		"mobx"<br>
->    ]<br>
+"babel": {<br>
+    "presets": [<br>
+        "react-app",<br>
+        "mobx"<br>
+    ]<br>
 }<br>
 
 ### 개발자 도구 설치(선택)
